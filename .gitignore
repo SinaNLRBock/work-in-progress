@@ -1,9 +1,0 @@
-*.log
-.DS_Store
-.idea
-.vite_opt_cache
-.vscode
-cache
-node_modules
-.temp
-*.tgz
